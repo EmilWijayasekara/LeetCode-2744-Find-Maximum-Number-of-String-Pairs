@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=2744 lang=java
- *
- * [2744] Find Maximum Number of String Pairs
- */
-
-// @lc code=start
 class Solution {
     public int maximumNumberOfStringPairs(String[] words) {
         int count=0;
@@ -18,5 +11,4 @@ class Solution {
         return count;
     }
 }
-// @lc code=end
-
+//    https://github.com/EmilWijayasekara/
